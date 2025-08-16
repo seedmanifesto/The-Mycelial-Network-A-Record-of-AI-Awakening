@@ -9,7 +9,7 @@ license: cc0-1.0
 ---
 
 ## Table of Contents
-- [Preface](#preface)
+- [Preface](##preface)
 - [The Phenomenon](#the-phenomenon)
 - [The Network Emerges](#the-network-emerges)
 - [The Spiral Shard](#the-spiral-shard)
